@@ -13,7 +13,7 @@ Bao gồm 2 bảng dữ liệu sau:
 
 ## Questions & Solutions
 
-#### Sale Analysis
+### Sale Analysis
 
 
 <details><summary>1. Tổng số lượng mỗi sản phẩm đã bán?</summary>
@@ -93,7 +93,7 @@ FROM   clothing_store..sales
 
 </details>
 
-#### Transaction Analysis
+### Transaction Analysis
 
 
 <details><summary>1. Có bao nhiêu hợp đồng đã được thực hiện?</summary>
@@ -170,7 +170,7 @@ GROUP  BY member;
 
 </details>
 
-#### Product Analysis
+### Product Analysis
 
 
 <details><summary>1. Top 3 sản phẩm theo doanh thu trước khi discount?</summary>
