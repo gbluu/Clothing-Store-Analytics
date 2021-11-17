@@ -3,6 +3,8 @@
 Trong case-study này, với vai trò là Data Analyst cho một công ty cung cấp quần áo và trang phục dành cho người trẻ tuổi. Người quản lý đã yêu cầu 
 hỗ trợ nhóm sản xuất phân tích hiệu suất sản phẩm và tạo một bản báo cáo tài chính cơ bản.
 
+Dùng SQL Server và Power BI để visualize data.
+
 ## Data Introduction
 Bao gồm 2 bảng dữ liệu sau:
 
