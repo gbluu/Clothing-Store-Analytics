@@ -453,3 +453,6 @@ ORDER  BY penetration_percentage DESC;
 
 
 </details>
+
+## Data Visualization
+![](/db.png)
