@@ -18,7 +18,7 @@ Bao gồm 2 bảng dữ liệu sau:
 ### Sale Analysis
 
 
-<details><summary>1. Tổng số lượng mỗi sản phẩm đã bán?</summary>
+1. Tổng số lượng mỗi sản phẩm đã bán?
 
 ```sql
 SELECT pd.product_name,
@@ -46,7 +46,7 @@ ORDER  BY sale_count DESC;
 |Teal Button Up Shirt - Mens     |3646      |
 
     
-</details>
+
 
 
 <details><summary>2. Doanh thu từng loại sản phẩm trước khi chiết khấu (discount)?</summary>
